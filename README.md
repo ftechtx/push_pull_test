@@ -2,5 +2,6 @@
 push_pull_test
 
 
-Edit and commit the README.md 
+Edit and commit the README.md
+
 Addming new line to show fetch command
